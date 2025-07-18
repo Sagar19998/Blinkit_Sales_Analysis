@@ -43,7 +43,8 @@ Key Features:
 
 🖼️ Screenshot:
 
-![Dashboard Screenshot](<img width="906" height="500" alt="Blinkit_Snapshot" src="https://github.com/user-attachments/assets/5f3194cf-8f34-483a-8d10-78519d3c5967" />
+![Dashboard Screenshot] (./<img width="906" height="500" alt="Blinkit_Snapshot" src="https://github.com/user-attachments/assets/bc28e2d4-e6b2-4568-aa0f-68cdbe27e603"/>
+/>
 )
 
 ---
